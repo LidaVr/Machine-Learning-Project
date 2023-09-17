@@ -15,7 +15,7 @@ Team Members:
 
 Waste Classification 
 
-#### All the scripts available in Github, along with the data folders and final model weights can all be found in our [Google Drive](https://drive.google.com/drive/folders/1urVhqK5nDfZzLGhPScMxFY_cBKNHjzlH?usp=sharing)
+#### All the scripts available in Github, along with the data folders and final model weights can all be found in our [Google Drive](https://drive.google.com/drive/folders/1urVhqK5nDfZzLGhPScMxFY_cBKNHjzlH?usp=drive_link)
 
 
 ### 0.Data Extraction
