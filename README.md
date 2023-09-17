@@ -1,4 +1,4 @@
-# Machine Learning and Content Analytics Project
+.# Machine Learning and Content Analytics Project
 Msc. Business Analytics, AUEB, 2022-2023
 
 Professor: Haris Papageorgiou
@@ -14,6 +14,8 @@ Team Members:
 ## Machine Learning Project Repository
 
 Waste Classification 
+
+#### All the scripts available in Github, along with the data folders and final model weights can all be found in our [Google Drive](https://drive.google.com/drive/folders/1urVhqK5nDfZzLGhPScMxFY_cBKNHjzlH?usp=drive_link)
 
 ### 0.Data Extraction
 This script is used to extract all of the images from the zip file, containing 7 folders, one for each category.
@@ -34,10 +36,10 @@ The purpose of this script is to split the images into 3 sets of data: Train, Te
 15% Validation: The validation set is used to fine-tune hyperparameters and monitor the model's performance during training. It helps prevent overfitting by allowing us to make adjustments based on validation performance.
 
 ### 4.Data Info
-The purpose of this script is to visualize the different classes of waste
+The purpose of this script is to visualize the different classes of waste.
 
 ### 5.Final Model
-This is the script used to build the final model for waste segregation
+This is the script used to build the final model for waste segregation.
 
 ### 6.Initial Model
-This script includes the initial model that we built, it was not used in the end.
+This script includes the initial model that we built, which was not used in the end.
