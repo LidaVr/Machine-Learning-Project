@@ -15,7 +15,8 @@ Team Members:
 
 Waste Classification 
 
-#### All the scripts available in Github, along with the data folders and final model weights can all be found in our [Google Drive](https://drive.google.com/drive/folders/1urVhqK5nDfZzLGhPScMxFY_cBKNHjzlH?usp=drive_link)
+#### All the scripts available in Github, along with the data folders and final model weights can all be found in our [Google Drive](https://drive.google.com/drive/folders/1urVhqK5nDfZzLGhPScMxFY_cBKNHjzlH?usp=sharing)
+
 
 ### 0.Data Extraction
 This script is used to extract all of the images from the zip file, containing 7 folders, one for each category.
