@@ -1,4 +1,4 @@
-.# Machine Learning and Content Analytics Project
+# Machine Learning and Content Analytics Project
 Msc. Business Analytics, AUEB, 2022-2023
 
 Professor: Haris Papageorgiou
