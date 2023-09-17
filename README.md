@@ -8,7 +8,7 @@ Assistant Professor: George Perakis
 Team Members:
 - Kalamara Katerina, p2822211
 - Konstantinos Velissaris, p2822204
-- Vratsanou Lida, p2822207
+- Lida Vratsanou, p2822207
 
 
 ## Machine Learning Project Repository
